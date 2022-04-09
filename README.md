@@ -5,7 +5,7 @@
 
 2.PCB鼠标悬停高亮：Perference-PCB Editor-Board Insight Display-Live Highlighting-取消enable下面的那个复选框
 
-![image](C:\Users\Code30\Desktop\PCB鼠标悬停高亮.jpg)
+![image](https://github.com/Code-30/EDA-Learning-Notes/blob/main/Images/PCB%E9%BC%A0%E6%A0%87%E6%82%AC%E5%81%9C%E9%AB%98%E4%BA%AE.jpg)
 
 ## 2.工程的创建及管理
 
