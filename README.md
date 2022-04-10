@@ -165,7 +165,7 @@
 	    <td rowspan="3">CON.LIB（接插件库）</td>
 	    <td>端子排座，包括导电插片、四脚端子等</td>
         <td>CON</td>
-        <td>COn+PIN数</td>
+        <td>CON+PIN数</td>
 	</tr>
     <tr>
 	    <td>排线</td>
